@@ -1,6 +1,4 @@
-# GENIE ART - NFT SHOP!
-
-## 지니소프트 NFT: Front-End 프로젝트 입니다.
+# Firebase Auth practice
 
 # Getting Started with Create React App
 
